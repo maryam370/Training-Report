@@ -1,6 +1,6 @@
 I would like to take this opportunity to express my deepest gratitude to all those who have supported, guided, and encouraged me throughout the course of my summer training.
 
-First and foremost, I am sincerely thankful to my industrial training supervisor, [Supervisor’s Full Name], at [Company Name], for their invaluable mentorship, continuous support, and constructive feedback. Their guidance played a crucial role in enhancing my technical skills and understanding of real-world applications in the industry. I am especially grateful for the time and effort they dedicated to ensuring that I gained meaningful and practical experience during my training.
+First, I would like to express my gratitude to Ali Hashim, which was my industrial training supervisor at Bank ABC, for his invaluable guidance, continuous monitoring, and helpful criticism and support. He had a high role in improving my technical and social skills and enhancing my proficiency and comprehension of practical industry applications. I am highly appreciative of the time and work they put into making sure I have useful experience throughout my training period. 
 
 I would also like to extend my appreciation to the Industrial Training Coordinator, [Coordinator’s Name if known], for their consistent support and for facilitating the communication between the university and the training organization. Their efforts ensured a smooth and productive training experience.
 
