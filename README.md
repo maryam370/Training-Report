@@ -1,10 +1,24 @@
 
- ​Well established for over 40 years in MENA, we have a rich and a respected legacy of nurturing long-term partnerships and are committed to your growth and success. ​​​In Bank ABC, you have a dynamic banking partner who understands and caters to your unique needs and challenges, leveraging our unique network, deep market insights and a dedicated workforce of over 5,​000 professionals.
+1. Company Overview
+Bank ABC is a prominent financial institution recognized for its innovative banking solutions, customer-centric approach, and commitment to digital transformation. Headquartered in Manama, Bahrain, the bank has established itself as a key player in the financial sector across the MENA region and beyond. With a strong presence in 15 countries and operations in 25 markets, Bank ABC offers a comprehensive suite of financial services tailored to individuals, businesses, and governmental entities. Its operations span retail banking, corporate banking, investment services, and digital financial solutions.
 
-Our unparalleled insights into local markets, combined with a secure footprint, strong and stable balance sheet and unrivalled professional network, make us the bank of choice in the region and beyond.
+Vision
+To be the most trusted and forward-thinking financial institution in the region, empowering customers through innovation and excellence.
 
-Actively covering 25 markets with our solid presence in 15 countries and financial centres - from New York, London and Singapore to São Paulo, Manama, DIFC, Cairo and Amman - we operate globally, while providing practical, personalised support for your banking needs in your local market.​
+Mission
+To deliver superior financial services that meet the evolving needs of our clients, while upholding the highest standards of integrity, professionalism, and technological advancement.
 
-We offer a host of innovative wholesale banking solutions which include transaction banking, specialised finance, real estate finance, treasury and financial markets products and Shari’a compliant banking services through Bank ABC Islamic. We also serve individuals through our network of retail branches in Algeria, Egypt, Tunisia and Jordan and our digital, mobile-only ila Bank in Bahrain and Jordan.
+Main Operations
+Bank ABC’s core operations include:
 
-We pride ourselves on being well respected by regulators, our clients and our competition, and staying true to our core values: we are committed to being client centric to deliver superior experience; collaborative across our global units; and a consistent partner to all our stakeholders.
+Personal and business banking
+Credit and loan services
+Investment advisory
+Treasury management
+Digital banking platforms
+The bank also offers Shari’a-compliant financial services through Bank ABC Islamic, and serves retail customers through its branches in Algeria, Egypt, Tunisia, and Jordan. In Bahrain and Jordan, it operates ila Bank, a fully digital, mobile-only banking platform.
+
+Size and Reach
+Well established for over 40 years in the MENA region, Bank ABC has a respected legacy of nurturing long-term partnerships and delivering value to its clients. The bank employs over 5,000 professionals and maintains a secure operational footprint supported by a strong and stable balance sheet. Its digital infrastructure serves millions of customers through advanced mobile and online banking platforms.
+
+Bank ABC’s global presence includes major financial centers such as New York, London, Singapore, São Paulo, DIFC, Cairo, and Amman, allowing it to operate internationally while providing practical, personalized support in local markets.
