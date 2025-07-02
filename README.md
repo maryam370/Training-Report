@@ -30,11 +30,12 @@
    - Core Banking Systems: Flexcube, Temenos
    - Database Management: Oracle, Microsoft SQL Server
    - Cybersecurity Tools: Firewalls, intrusion detection systems, endpoint protection
-   - Development Tools: Visual Studio, Git, Jenkins, JIRA
+   - Development Tools: Visual Studio, Git, Jenkins, JIRA , Power Platform
    - Networking Equipment: Cisco routers and switches, load balancers, VPNs
 
 - My Role and Experience:
-  
+
+  [will change once the training is final and all the porjects are recorded] 
   As a training student, I was involved in several activities that provided hands-on exposure to the bank’s IT operations. I assisted in routine system maintenance tasks,     observed the deployment of software updates, and participated in testing procedures for new digital banking features. I also had the opportunity to shadow cybersecurity     analysts during a simulated threat response exercise, which deepened my understanding of real-world security protocols. Additionally, I contributed to documentation         efforts for internal IT processes and attended departmental meetings where ongoing projects and challenges were discussed.
 
 This experience significantly enhanced my technical skills, particularly in understanding enterprise-level IT systems, and gave me valuable insight into the role of technology in modern banking.
